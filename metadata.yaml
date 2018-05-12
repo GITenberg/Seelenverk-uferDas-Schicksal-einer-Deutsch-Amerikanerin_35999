@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38022
     wikipedia: http://de.wikipedia.org/wiki/Margarete_Schuck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35999#Seelenverk-uferDas-Schicksal-einer-Deutsch-Amerikanerin
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-04-30'
 gutenberg_type: Text
